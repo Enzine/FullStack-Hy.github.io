@@ -70,7 +70,7 @@ erottele tulostettavat asiat pilkulla:
 console.log('propsin arvo on', props)
 ```
 
-Jos yhdistät merkkijonoon olion, tuloksena on suhteellisen hyödytön tulostustmuoto
+Jos yhdistät merkkijonoon olion, tuloksena on suhteellisen hyödytön tulostusmuoto
 
 ```bash
 propsin arvo on [Object object]
